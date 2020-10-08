@@ -1,0 +1,111 @@
+body{
+	margin: 0px;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+h1{
+	margin-top: 0;
+	font-family: 'Sacramento', cursive; 
+	font-size: 70px; 
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.top-container h1{
+	padding-top: 60px;
+}
+.top-container p{
+	padding-bottom: 10px;
+	position: relative;
+	font-size: 30px;
+}
+
+.top-container{
+	background-color: #FFA5A5;
+	margin: 0;
+	padding-top: 50px;
+	position: relative;
+
+}
+
+.cloud{
+	width: 200px;
+	height: 75px;
+}
+
+#cloud-top{
+	position: absolute;
+	right: 300px;
+	top:50px;
+}
+
+#cloud-bottom{
+	position: absolute;
+	left: 400px;
+	bottom: 400px;
+}
+
+#mountain{
+	width: 50%;
+}
+
+.pro{
+	text-decoration: underline;
+}
+
+.middle-container{
+	margin-top: 10px;
+}
+
+#venky-img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.box1{
+	margin:0 auto 0 auto;
+	width: 500px;
+	height: 500px;
+	background-color: powderblue;
+	border-radius: 50%;
+}
+
+#screen_png{
+	margin: auto 0;
+	width: 250px;
+	height: 250px;
+	margin-top: 100px;
+
+}
+
+.box2{
+	margin: 70px auto 0 auto;
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	border-radius: 50%;
+}
+
+#dumbbell{
+	margin: 0 auto;
+	width: 300px;
+	height: 300px;
+	margin-top: 50px;
+}
+
+.bottom-container{
+
+}
